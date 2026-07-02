@@ -1,0 +1,10 @@
+# Output directories
+calibration_output*/
+
+# Data directories
+data/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
